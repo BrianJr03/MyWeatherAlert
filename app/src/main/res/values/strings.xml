@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">MyWeatherAlert</string>
+    <string name="no_value_selected_error">Please select a State.</string>
+    <string name="choose_state">Choose State</string>
+    <string name="search">Search</string>
+    <string name="view_alerts">View Alerts</string>
+    <string name="alerts_for">Alerts for:</string>
+    <string name="state_example">State Example</string>
+    <string name="long_press_an_alert_to_open_link">Long Press an Alert to Open Link</string>
+    <string name="showing_alerts_for_st">Showing Alerts for ST</string>
+    <string name="cannot_fetch_data">File not found. Local XML has been imported.</string>
+    <string name="showing_imported_data">Imported from local XML</string>
+    <string-array name="states">
+        <item>Choose State</item>
+        <item>AL</item>
+        <item>AK</item>
+        <item>AZ</item>
+        <item>AR</item>
+        <item>CA</item>
+        <item>CO</item>
+        <item>CT</item>
+        <item>DE</item>
+        <item>FL</item>
+        <item>GA</item>
+        <item>HI</item>
+        <item>ID</item>
+        <item>IL</item>
+        <item>IN</item>
+        <item>IA</item>
+        <item>KS</item>
+        <item>KY</item>
+        <item>LA</item>
+        <item>ME</item>
+        <item>MD</item>
+        <item>MA</item>
+        <item>MI</item>
+        <item>MN</item>
+        <item>MS</item>
+        <item>MO</item>
+        <item>MT</item>
+        <item>NE</item>
+        <item>NV</item>
+        <item>NH</item>
+        <item>NJ</item>
+        <item>NM</item>
+        <item>NY</item>
+        <item>NC</item>
+        <item>ND</item>
+        <item>OH</item>
+        <item>OK</item>
+        <item>OR</item>
+        <item>PA</item>
+        <item>RI</item>
+        <item>SC</item>
+        <item>SD</item>
+        <item>TN</item>
+        <item>TX</item>
+        <item>UT</item>
+        <item>VT</item>
+        <item>VA</item>
+        <item>WA</item>
+        <item>WV</item>
+        <item>WI</item>
+        <item>WY</item>
+    </string-array>
+</resources>

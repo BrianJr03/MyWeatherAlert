@@ -1,0 +1,103 @@
+<?xml version = '1.0' encoding = 'UTF-8' standalone = 'yes'?>
+
+<!--
+This atom/xml feed is an index to active advisories, watches and warnings 
+issued by the National Weather Service.  This index file is not the complete 
+Common Alerting Protocol (CAP) alert message.  To obtain the complete CAP 
+alert, please follow the links for each entry in this index.  Also note the 
+CAP message uses a style sheet to convey the information in a human readable 
+format.  Please view the source of the CAP message to see the complete data 
+set.  Not all information in the CAP message is contained in this index of 
+active alerts.
+-->
+    <!-- http-date = Fri, 16 Jul 2021 01:05:00 GMT -->
+<feed>
+    <entry>
+    <id>https://alerts.weather.gov/cap/wwacapget.php?x=IN1261AC8F7B20.SpecialWeatherStatement.1261AC8F84E4IN.INDSPSIND.a2729999f94863df1b05b3e2f08717dc</id>
+    <updated>2021-07-16T17:20:00-04:00</updated>
+    <published>2021-07-16T17:20:00-04:00</published>
+    <author>
+        <name>w-nws.webmaster@noaa.gov</name>
+    </author>
+    <title>Special Weather Statement issued July 16 at 5:20PM EDT by NWS</title>
+    <link href="https://alerts.weather.gov/cap/wwacapget.php?x=IN1261AC8F7B20.SpecialWeatherStatement.1261AC8F84E4IN.INDSPSIND.a2729999f94863df1b05b3e2f08717dc"/>
+    <summary>...A STRONG THUNDERSTORM WILL AFFECT MARTIN...SOUTHEASTERN GREENE... WESTERN LAWRENCE AND EAST CENTRAL DAVIESS COUNTIES... At 519 PM EDT, a strong thunderstorm was located near Shoals, or 24 miles northeast of Petersburg, moving northeast at 35 mph. Winds in excess of 40 mph are possible with this storm. Brief very heavy rain and ponding of water on roads is also expected</summary>
+    </entry>
+    <entry>
+        <id>https://alerts.weather.gov/cap/wwacapget.php?x=IN1261AC8F5B7C.FloodAdvisory.1261AC9C0228IN.PAHFLSPAH.8ed01f1e5edb9938200027ddc145c467</id>
+        <updated>2021-07-16T16:39:00-04:00</updated>
+        <published>2021-07-16T16:39:00-04:00</published>
+        <author>
+            <name>w-nws.webmaster@noaa.gov</name>
+        </author>
+        <title>Flood Advisory issued July 16 at 4:39PM EDT until further notice by NWS</title>
+        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=IN1261AC8F5B7C.FloodAdvisory.1261AC9C0228IN.PAHFLSPAH.8ed01f1e5edb9938200027ddc145c467"/>
+        <summary>The National Weather Service in Paducah has issued a * Urban and Small Stream Flood Advisory for... Gibson County in southwestern Indiana... Western Pike County in southwestern Indiana... * Until 445 PM CDT. * At 339 PM CDT, Doppler radar indicated heavy rain due to</summary>
+    </entry>
+    <entry>
+        <id>https://alerts.weather.gov/cap/wwacapget.php?x=IN1261AC8EDE7C.FlashFloodWatch.1261AC9E4060IN.ILNFFAILN.0c116a2fad031f9e3ded379f5a67fc61</id>
+        <updated>2021-07-16T13:19:00-04:00</updated>
+        <published>2021-07-16T13:19:00-04:00</published>
+        <author>
+            <name>w-nws.webmaster@noaa.gov</name>
+        </author>
+        <title>Flash Flood Watch issued July 16 at 1:19PM EDT until July 17 at 2:00PM EDT by NWS</title>
+        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=IN1261AC8EDE7C.FlashFloodWatch.1261AC9E4060IN.ILNFFAILN.0c116a2fad031f9e3ded379f5a67fc61"/>
+        <summary>...FLASH FLOOD WATCH REMAINS IN EFFECT THROUGH SATURDAY AFTERNOON... The Flash Flood Watch continues for * Portions of East Central Indiana and Ohio, including the following counties, in East Central Indiana, Fayette IN, Union IN and Wayne. In Ohio, Auglaize, Champaign, Clark, Darke, Delaware, Franklin OH, Greene, Hardin, Licking, Logan, Madison, Mercer, Miami,</summary>
+    </entry>
+    <entry>
+        <id>https://alerts.weather.gov/cap/wwacapget.php?x=IN1261AC8EDE7C.FlashFloodWatch.1261AC9E4060IN.ILNFFAILN.980a651fd72cdf7f66543b729f74ba04</id>
+        <updated>2021-07-16T13:19:00-04:00</updated>
+        <published>2021-07-16T13:19:00-04:00</published>
+        <author>
+            <name>w-nws.webmaster@noaa.gov</name>
+        </author>
+        <title>Flash Flood Watch issued July 16 at 1:19PM EDT until July 17 at 2:00PM EDT by NWS</title>
+        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=IN1261AC8EDE7C.FlashFloodWatch.1261AC9E4060IN.ILNFFAILN.980a651fd72cdf7f66543b729f74ba04"/>
+        <summary>...FLASH FLOOD WATCH IN EFFECT THROUGH SATURDAY AFTERNOON... The National Weather Service in Wilmington has expanded the * Flash Flood Watch to include portions of Southeast Indiana, Northern Kentucky and Ohio, including the following counties, in Southeast Indiana, Dearborn, Franklin IN, Ohio, Ripley and Switzerland. In Northern Kentucky, Boone, Campbell and Kenton. In</summary>
+    </entry>
+    <entry>
+        <id>https://alerts.weather.gov/cap/wwacapget.php?x=IN1261AC8E905C.FloodWarning.1261AC9C0228IN.INDFLSIND.90c53098c5a30703345b2efcf86e7e21</id>
+        <updated>2021-07-16T11:19:00-04:00</updated>
+        <published>2021-07-16T11:19:00-04:00</published>
+        <author>
+            <name>w-nws.webmaster@noaa.gov</name>
+        </author>
+        <title>Flood Warning issued July 16 at 11:19AM EDT until further notice by NWS</title>
+        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=IN1261AC8E905C.FloodWarning.1261AC9C0228IN.INDFLSIND.90c53098c5a30703345b2efcf86e7e21"/>
+        <summary>...The Flood Warning continues for the following rivers in Indiana... Buck Creek at Acton affecting Marion County. Youngs Creek at Amity affecting Johnson County. .Heavy rain over the last 24 hours has resulted in minor flooding along Buck Creek and Youngs Creek. ...The Flood Warning remains in effect...</summary>
+    </entry>
+    <entry>
+        <id>https://alerts.weather.gov/cap/wwacapget.php?x=IN1261AC8E905C.FloodWarning.1261AC9C0228IN.INDFLSIND.eafb7d4d749346abed3634e266416dd4</id>
+        <updated>2021-07-16T11:19:00-04:00</updated>
+        <published>2021-07-16T11:19:00-04:00</published>
+        <author>
+            <name>w-nws.webmaster@noaa.gov</name>
+        </author>
+        <title>Flood Warning issued July 16 at 11:19AM EDT until further notice by NWS</title>
+        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=IN1261AC8E905C.FloodWarning.1261AC9C0228IN.INDFLSIND.eafb7d4d749346abed3634e266416dd4"/>
+        <summary>...The Flood Warning continues for the following rivers in Indiana... Buck Creek at Acton affecting Marion County. Youngs Creek at Amity affecting Johnson County. .Heavy rain over the last 24 hours has resulted in minor flooding along Buck Creek and Youngs Creek. ...The Flood Warning remains in effect...</summary>
+    </entry>
+    <entry>
+        <id>https://alerts.weather.gov/cap/wwacapget.php?x=IN1261AC8E905C.FloodWarning.1261AC9C0228IN.INDFLWIND.7cbd1a77f4e335dddf954278e5dd2781</id>
+        <updated>2021-07-16T11:19:00-04:00</updated>
+        <published>2021-07-16T11:19:00-04:00</published>
+        <author>
+            <name>w-nws.webmaster@noaa.gov</name>
+        </author>
+        <title>Flood Warning issued July 16 at 11:19AM EDT until further notice by NWS</title>
+        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=IN1261AC8E905C.FloodWarning.1261AC9C0228IN.INDFLWIND.7cbd1a77f4e335dddf954278e5dd2781"/>
+        <summary>...The National Weather Service in Indianapolis IN has issued a Flood Warning for the following rivers in Indiana...Illinois... Driftwood River near Edinburgh 2 SW affecting Bartholomew, Johnson and Shelby Counties. Big Blue River at Shelbyville affecting Shelby County. Flatrock River near Columbus affecting Bartholomew County.</summary>
+    </entry>
+    <entry>
+        <id>https://alerts.weather.gov/cap/wwacapget.php?x=IN1261AC8E905C.FloodWarning.1261AC9C0228IN.INDFLWIND.4e3e3919676b5dda83e566e5cac8263b</id>
+        <updated>2021-07-16T11:19:00-04:00</updated>
+        <published>2021-07-16T11:19:00-04:00</published>
+        <author>
+            <name>w-nws.webmaster@noaa.gov</name>
+        </author>
+        <title>Flood Warning issued July 16 at 11:19AM EDT until further notice by NWS</title>
+        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=IN1261AC8E905C.FloodWarning.1261AC9C0228IN.INDFLWIND.4e3e3919676b5dda83e566e5cac8263b"/>
+        <summary>...The National Weather Service in Indianapolis IN has issued a Flood Warning for the following rivers in Indiana...Illinois... Driftwood River near Edinburgh 2 SW affecting Bartholomew, Johnson and Shelby Counties. Big Blue River at Shelbyville affecting Shelby County. Flatrock River near Columbus affecting Bartholomew County.</summary>
+    </entry>
+</feed>
